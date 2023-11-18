@@ -33,8 +33,8 @@ class MainActivity : ComponentActivity() {
                         LabelAndValue("Weight", "Val 42"),
                         LabelAndValue("Units", "Kg"),
                     )
-                    comp.Example1()
-                    //comp.aRowOfIconAndTextFields("glutes",labelValuePairs)
+                    //comp.Example1()
+                    comp.aRowOfIconAndTextFields("barbell",labelValuePairs)
                     //comp.myTextField("label","value")
 
                 }
